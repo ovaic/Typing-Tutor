@@ -1,0 +1,7 @@
+NAME              WORDS PER MIN         ACCURACY
+========================================================
+Mansoor Khan            3                   100.00
+Nadaan Parinday         18                   86.00
+DADA                    11                   60.00
+
+Jniad         15                   77.42

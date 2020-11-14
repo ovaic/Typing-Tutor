@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1576674552 source:d:\c language\typingtutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1577126848 source:c:\users\mansoor khan\desktop\typingtutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+
+1577107596 source:c:\users\awais\downloads\typingtutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
